@@ -1,4 +1,4 @@
-a_k1="AIzaSyDfRxJgGIQbKLNR7ERQWGufu9r6C5fR5LI"
+a_k1="Get it from https://ai.google.dev/aistudio"
 
 
 p1="""
